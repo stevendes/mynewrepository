@@ -1,0 +1,8 @@
+prefix=/home/steven/Second/catkin_ws/devel
+
+Name: draw_turtle
+Description: Description of draw_turtle
+Version: 0.1.0
+Cflags: -I/home/steven/Second/catkin_ws/src/tech_mdesvars/include
+Libs: -L/home/steven/Second/catkin_ws/devel/lib -ldrawing
+Requires: roscpp rostime std_msgs std_srvs

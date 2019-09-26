@@ -1,0 +1,2 @@
+tech_mdesvars
+-DCATKIN_DEVEL_PREFIX=/home/steven/Second/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/steven/Second/catkin_ws/install -G Unix Makefiles
